@@ -72,7 +72,7 @@ Take for example a 10 second timer. If we were to have a timer bar length of 10,
     int time_per_increment = total_time / increments;
 ```
 
-# The Timer Loop
+## The Timer Loop
 
 The timer loop incorporates the `time_per_increment` within these in order to find how long each bar should be. We then run this loop until the clock has reached the increment count. Meaning there would be `1000` ms per increment, as shown in the aforementioned example.
 
