@@ -13,3 +13,5 @@
 To create a cohesive simple program to analyze the progress of your programs. 
 
 # Docs!
+
+The Loading Bar Library for C++ is a simple and efficient way to display loading indicators in console applications. It provides a visually appealing loading bar that can be easily integrated into your projects to inform users of ongoing processes, such as data processing or file downloads
